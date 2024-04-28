@@ -12,7 +12,6 @@ Busco minha primeira oportunidade de emprego para me inserir no mercado de traba
 - LinkedIn: [https://www.linkedin.com/in/igorjoaquim/](https://www.linkedin.com/in/igorjoaquim/)
 - GitHub: [https://github.com/IgorJoaquimn](https://github.com/IgorJoaquimn)
 
-<hr>
 
 ## Formação Acadêmica
 #### Bacharelado em Ciência da Computação
@@ -26,7 +25,6 @@ Busco minha primeira oportunidade de emprego para me inserir no mercado de traba
 * Formação Prevista: 2020
 * Instituição: IFTM
 
-<hr>
 
 ## Projetos
 ####   [Recommendation System using ChatGPT api](https://github.com/Giovana2ma/DCC603-Eng-Soft-GPT)
@@ -42,8 +40,7 @@ Busco minha primeira oportunidade de emprego para me inserir no mercado de traba
 	* PyTorch: estrutura de aprendizado profundo usada para implementar a rede neural
 	* Pandas: biblioteca de manipulação de dados usada para pré-processamento e manipulação de conjuntos de dados.
 	* Seaborn e Matplotlib: Bibliotecas de visualização de dados usadas para visualizar o progresso do treinamento e o desempenho do modelo.
-	
-<hr>
+
 
 ## Ferramentas
 * Python
@@ -52,7 +49,7 @@ Busco minha primeira oportunidade de emprego para me inserir no mercado de traba
 * Javascript
 * VueJS
 * Pytorch
-<hr>
+
 
 ## Certificados
 #### Composição de Programas em Python
@@ -63,7 +60,6 @@ Busco minha primeira oportunidade de emprego para me inserir no mercado de traba
 * Curso de python focado em data science e PLN oferecido pela ICMC/USP
 * Nele, aprendi os fundamentos de PLN  e como usar python para resolver as tarefas
 
-<hr>
 
 ## Idiomas
 **Português:** Nativo
