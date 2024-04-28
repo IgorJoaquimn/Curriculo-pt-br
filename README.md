@@ -1,6 +1,5 @@
 # Igor Joaquim da Silva Costa
 ## Sobre Mim
-<hr>
 Atualmente, sou um pesquisador com interesse e experiência em pesquisa nas áreas de Ciência dos Dados e Computação Social. 
   
 Estou sempre à procura de novos conhecimentos e experiências, com foco em empresas inclusivas e abertas que estejam dispostas a melhorar o mundo a partir da inovação tecnológica.
